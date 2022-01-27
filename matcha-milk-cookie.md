@@ -1,7 +1,7 @@
 # Matacha Milk Cookies
 
 ## Ingredients: 
-1 cup + 1 tablespoon unsalted butter
+1 cup + 1 tablespoon unsalted butter\n
 1 cup sugar
 2 teaspoons vanilla extract
 2 cups all purpose flour
