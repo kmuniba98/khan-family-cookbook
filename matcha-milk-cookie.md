@@ -1,15 +1,15 @@
 # Matacha Milk Cookies
 
 ## Ingredients: 
-1 cup + 1 tablespoon unsalted butter\n
-1 cup sugar
-2 teaspoons vanilla extract
-2 cups all purpose flour
-1 teaspoon baking soda
-1/2 teaspoon salt
-2 tablespoons dry milk powder
-4 teaspoons matcha powder
-2 tablespoons milk
+1 cup + 1 tablespoon unsalted butter  
+1 cup sugar  
+2 teaspoons vanilla extract  
+2 cups all purpose flour  
+1 teaspoon baking soda  
+1/2 teaspoon salt  
+2 tablespoons dry milk powder  
+4 teaspoons matcha powder  
+2 tablespoons milk  
 
 ## Procedure
 1. Preheat oven to 350 degrees fahrenheit.
