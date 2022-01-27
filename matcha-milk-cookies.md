@@ -13,7 +13,7 @@ Adapted from https://www.egglesscooking.com/orange-cookies-recipe/
 4 teaspoons matcha powder  
 2 tablespoons milk  
 
-## Procedure
+## Procedures
 1. Preheat oven to 350 degrees fahrenheit.
 2. Cream together butter and sugar in a large bowl. Add vanilla extract and milk and beat well.
 3. In another bowl, sift together flour, baking soda, salt, milk powder, and matcha powder. 
