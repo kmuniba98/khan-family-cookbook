@@ -1,0 +1,5 @@
+# Cranberry Sauce
+
+## Ingredients
+
+## Procedure
